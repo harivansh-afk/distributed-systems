@@ -1,0 +1,3 @@
+[submodule "url-shortner"]
+	path = url-shortner
+	url = https://github.com/harivansh-afk/url-shortner.git
